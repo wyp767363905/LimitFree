@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+target 'LimitFree' do
+	pod 'MJRefresh'
+	pod 'SDWebImage'
+	pod 'AFNetworking'
+	pod 'FMDB'
+end
